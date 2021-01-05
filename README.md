@@ -28,3 +28,18 @@ Team Members:
 
 
 Registration sheet row number : 91
+
+Screenshots from our application :
+
+1-Enter the time you need like that
+
+![](c11.png)
+
+2-you will notify after the time has ended
+
+![](c1112.png)
+
+3-Validation if the enterd value isn't correct
+
+![](c1111.png)
+
